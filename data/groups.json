@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Hightech" },
+    { "id": 2, "name": "Shiptech" },
+    { "id": 3, "name": "Refined" },
+    { "id": 4, "name": "Food" },
+    { "id": 5, "name": "Agricultural" },
+    { "id": 6, "name": "Energy" },
+    { "id": 7, "name": "Gases" },
+    { "id": 8, "name": "Ice" },
+    { "id": 9, "name": "Pharmaceutical" },
+    { "id": 10, "name": "Minerals" },
+    { "id": 11, "name": "Water" }
+]

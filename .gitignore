@@ -19,7 +19,6 @@ amplify/backend/amplify-meta.json
 .bower_components
 .cache
 .cache/
-.db
 .docusaurus
 .env
 .env.development.local
@@ -52,6 +51,7 @@ amplify/backend/amplify-meta.json
 .yarn/install-state.gz
 .yarn/unplugged
 **.sample
+*.db
 *.lcov
 *.log
 *.pid

@@ -1,0 +1,62 @@
+{
+  "db_name": "SQLite",
+  "query": "\n            SELECT id, name, volume, minimum, maximum, average, group_id, type_id\n            FROM wares\n            ",
+  "describe": {
+    "columns": [
+      {
+        "name": "id",
+        "ordinal": 0,
+        "type_info": "Int64"
+      },
+      {
+        "name": "name",
+        "ordinal": 1,
+        "type_info": "Text"
+      },
+      {
+        "name": "volume",
+        "ordinal": 2,
+        "type_info": "Int64"
+      },
+      {
+        "name": "minimum",
+        "ordinal": 3,
+        "type_info": "Int64"
+      },
+      {
+        "name": "maximum",
+        "ordinal": 4,
+        "type_info": "Int64"
+      },
+      {
+        "name": "average",
+        "ordinal": 5,
+        "type_info": "Int64"
+      },
+      {
+        "name": "group_id",
+        "ordinal": 6,
+        "type_info": "Int64"
+      },
+      {
+        "name": "type_id",
+        "ordinal": 7,
+        "type_info": "Int64"
+      }
+    ],
+    "parameters": {
+      "Right": 0
+    },
+    "nullable": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "hash": "58e9bca52d91c982490ebd8b31711a16a04c35d29e8488a9e07546bc2c6edb52"
+}

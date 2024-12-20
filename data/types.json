@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Container" },
+    { "id": 2, "name": "Liquid" },
+    { "id": 3, "name": "Solid" }
+]

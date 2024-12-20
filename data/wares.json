@@ -1,0 +1,524 @@
+[
+    {
+        "name": "Advanced Composites",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 32,
+        "minimum": 432,
+        "maximum": 648,
+        "average": 540
+    },
+    {
+        "name": "Advanced Electronics",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 30,
+        "minimum": 710,
+        "maximum": 1318,
+        "average": 1014
+    },
+    {
+        "name": "Antimatter Cells",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 18,
+        "minimum": 121,
+        "maximum": 282,
+        "average": 202
+    },
+    {
+        "name": "Antimatter Converters",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 10,
+        "minimum": 248,
+        "maximum": 461,
+        "average": 354
+    },
+    {
+        "name": "BoFu",
+        "group_id": 4,
+        "type_id": 1,
+        "volume": 4,
+        "minimum": 61,
+        "maximum": 142,
+        "average": 101
+    },
+    {
+        "name": "BoGas",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 4,
+        "minimum": 44,
+        "maximum": 102,
+        "average": 73
+    },
+    {
+        "name": "Chelt Meat",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 7,
+        "minimum": 31,
+        "maximum": 72,
+        "average": 51
+    },
+    {
+        "name": "Claytronics",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 24,
+        "minimum": 1734,
+        "maximum": 2346,
+        "average": 2040
+    },
+    {
+        "name": "Computronic Substrate",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 50,
+        "minimum": 7452,
+        "maximum": 9108,
+        "average": 8280
+    },
+    {
+        "name": "Drone Components",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 30,
+        "minimum": 685,
+        "maximum": 1142,
+        "average": 914
+    },
+    {
+        "name": "Energy Cells",
+        "group_id": 6,
+        "type_id": 1,
+        "volume": 1,
+        "minimum": 10,
+        "maximum": 22,
+        "average": 16
+    },
+    {
+        "name": "Engine Parts",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 15,
+        "minimum": 128,
+        "maximum": 237,
+        "average": 182
+    },
+    {
+        "name": "Field Coils",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 15,
+        "minimum": 247,
+        "maximum": 576,
+        "average": 412
+    },
+    {
+        "name": "Food Rations",
+        "group_id": 4,
+        "type_id": 1,
+        "volume": 1,
+        "minimum": 12,
+        "maximum": 29,
+        "average": 21
+    },
+    {
+        "name": "Graphene",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 20,
+        "minimum": 100,
+        "maximum": 233,
+        "average": 166
+    },
+    {
+        "name": "Helium",
+        "group_id": 7,
+        "type_id": 2,
+        "volume": 6,
+        "minimum": 37,
+        "maximum": 51,
+        "average": 44
+    },
+    {
+        "name": "Hull Parts",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 12,
+        "minimum": 146,
+        "maximum": 272,
+        "average": 209
+    },
+    {
+        "name": "Hydrogen",
+        "group_id": 7,
+        "type_id": 2,
+        "volume": 6,
+        "minimum": 49,
+        "maximum": 67,
+        "average": 58
+    },
+    {
+        "name": "Ice",
+        "group_id": 8,
+        "type_id": 3,
+        "volume": 8,
+        "minimum": 26,
+        "maximum": 35,
+        "average": 30
+    },
+    {
+        "name": "Maja Dust",
+        "group_id": 9,
+        "type_id": 1,
+        "volume": 6,
+        "minimum": 94,
+        "maximum": 323,
+        "average": 208
+    },
+    {
+        "name": "Maja Snails",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 6,
+        "minimum": 35,
+        "maximum": 81,
+        "average": 58
+    },
+    {
+        "name": "Meat",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 6,
+        "minimum": 29,
+        "maximum": 68,
+        "average": 48
+    },
+    {
+        "name": "Medical Supplies",
+        "group_id": 9,
+        "type_id": 1,
+        "volume": 2,
+        "minimum": 43,
+        "maximum": 89,
+        "average": 66
+    },
+    {
+        "name": "Metallic Microlattice",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 1,
+        "minimum": 42,
+        "maximum": 57,
+        "average": 50
+    },
+    {
+        "name": "Methane",
+        "group_id": 7,
+        "type_id": 2,
+        "volume": 6,
+        "minimum": 41,
+        "maximum": 55,
+        "average": 48
+    },
+    {
+        "name": "Microchips",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 22,
+        "minimum": 805,
+        "maximum": 1090,
+        "average": 948
+    },
+    {
+        "name": "Missile Components",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 2,
+        "minimum": 6,
+        "maximum": 13,
+        "average": 9
+    },
+    {
+        "name": "Nividium",
+        "group_id": 10,
+        "type_id": 3,
+        "volume": 10,
+        "minimum": 434,
+        "maximum": 587,
+        "average": 510
+    },
+    {
+        "name": "Nostrop Oil",
+        "group_id": 4,
+        "type_id": 1,
+        "volume": 1,
+        "minimum": 20,
+        "maximum": 47,
+        "average": 34
+    },
+    {
+        "name": "Ore",
+        "group_id": 10,
+        "type_id": 3,
+        "volume": 10,
+        "minimum": 43,
+        "maximum": 58,
+        "average": 50
+    },
+    {
+        "name": "Plankton",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 1,
+        "minimum": 11,
+        "maximum": 25,
+        "average": 18
+    },
+    {
+        "name": "Plasma Conductors",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 32,
+        "minimum": 769,
+        "maximum": 1282,
+        "average": 1026
+    },
+    {
+        "name": "Protein Paste",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 4,
+        "minimum": 57,
+        "maximum": 134,
+        "average": 96
+    },
+    {
+        "name": "Quantum Tubes",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 22,
+        "minimum": 225,
+        "maximum": 375,
+        "average": 300
+    },
+    {
+        "name": "Refined Metals",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 14,
+        "minimum": 89,
+        "maximum": 207,
+        "average": 148
+    },
+    {
+        "name": "Scanning Arrays",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 38,
+        "minimum": 842,
+        "maximum": 1264,
+        "average": 1053
+    },
+    {
+        "name": "Scrap Metal",
+        "group_id": 3,
+        "type_id": 3,
+        "volume": 10,
+        "minimum": 318,
+        "maximum": 431,
+        "average": 375
+    },
+    {
+        "name": "Scruffin Fruit",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 6,
+        "minimum": 17,
+        "maximum": 40,
+        "average": 28
+    },
+    {
+        "name": "Shield Components",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 10,
+        "minimum": 113,
+        "maximum": 264,
+        "average": 188
+    },
+    {
+        "name": "Silicon",
+        "group_id": 10,
+        "type_id": 3,
+        "volume": 10,
+        "minimum": 111,
+        "maximum": 150,
+        "average": 130
+    },
+    {
+        "name": "Silicon Carbide",
+        "group_id": 1,
+        "type_id": 1,
+        "volume": 20,
+        "minimum": 1202,
+        "maximum": 1627,
+        "average": 1414
+    },
+    {
+        "name": "Silicon Wafers",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 18,
+        "minimum": 180,
+        "maximum": 419,
+        "average": 299
+    },
+    {
+        "name": "Smart Chips",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 2,
+        "minimum": 46,
+        "maximum": 69,
+        "average": 57
+    },
+    {
+        "name": "Soja Beans",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 5,
+        "minimum": 40,
+        "maximum": 93,
+        "average": 67
+    },
+    {
+        "name": "Soja Husk",
+        "group_id": 4,
+        "type_id": 1,
+        "volume": 1,
+        "minimum": 19,
+        "maximum": 45,
+        "average": 32
+    },
+    {
+        "name": "Spacefuel",
+        "group_id": 9,
+        "type_id": 1,
+        "volume": 2,
+        "minimum": 60,
+        "maximum": 207,
+        "average": 133
+    },
+    {
+        "name": "Spaceweed",
+        "group_id": 9,
+        "type_id": 1,
+        "volume": 3,
+        "minimum": 75,
+        "maximum": 257,
+        "average": 166
+    },
+    {
+        "name": "Spices",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 3,
+        "minimum": 12,
+        "maximum": 28,
+        "average": 20
+    },
+    {
+        "name": "Stimulants",
+        "group_id": 9,
+        "type_id": 1,
+        "volume": 12,
+        "minimum": 153,
+        "maximum": 527,
+        "average": 340
+    },
+    {
+        "name": "Sunrise Flowers",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 5,
+        "minimum": 48,
+        "maximum": 112,
+        "average": 80
+    },
+    {
+        "name": "Superfluid Coolant",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 16,
+        "minimum": 90,
+        "maximum": 211,
+        "average": 150
+    },
+    {
+        "name": "Swamp Plant",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 6,
+        "minimum": 50,
+        "maximum": 117,
+        "average": 84
+    },
+    {
+        "name": "Teladianium",
+        "group_id": 3,
+        "type_id": 1,
+        "volume": 16,
+        "minimum": 121,
+        "maximum": 283,
+        "average": 202
+    },
+    {
+        "name": "Terran MRE",
+        "group_id": 4,
+        "type_id": 1,
+        "volume": 2,
+        "minimum": 32,
+        "maximum": 75,
+        "average": 54
+    },
+    {
+        "name": "Turret Components",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 20,
+        "minimum": 164,
+        "maximum": 383,
+        "average": 273
+    },
+    {
+        "name": "Water",
+        "group_id": 11,
+        "type_id": 1,
+        "volume": 6,
+        "minimum": 32,
+        "maximum": 74,
+        "average": 53
+    },
+    {
+        "name": "Weapon Components",
+        "group_id": 2,
+        "type_id": 1,
+        "volume": 20,
+        "minimum": 171,
+        "maximum": 399,
+        "average": 285
+    },
+    {
+        "name": "Wheat",
+        "group_id": 5,
+        "type_id": 1,
+        "volume": 4,
+        "minimum": 19,
+        "maximum": 44,
+        "average": 31
+    }
+]
